@@ -1,13 +1,3 @@
-/**     Name: Eynav Sela
-        UserName: eynavsela
-        ID: 315859512
-        ---------------------------------
-        Name: Tal Schneider
-        UserName: talschneider
-        ID: 206897514
- */
-
-
 import com.sun.net.httpserver.Authenticator;
 
 import java.lang.reflect.Array;
